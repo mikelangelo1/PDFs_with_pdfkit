@@ -1,0 +1,23 @@
+{
+  "name": "pdfs_with_pdfkit",
+  "version": "1.0.0",
+  "description": "Working with pdfkits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikelangelo1/PDFs_with_pdfkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikelangelo1/PDFs_with_pdfkit/issues"
+  },
+  "homepage": "https://github.com/mikelangelo1/PDFs_with_pdfkit#readme",
+  "dependencies": {
+    "pdfkit-table": "^0.1.99"
+  }
+}
